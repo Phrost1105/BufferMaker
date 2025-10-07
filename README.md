@@ -28,6 +28,8 @@ python app.py
 
 Pick your video, hit “create buffer”, and the new file lands where you chose.
 
+**IF* you choose to upload a crash video to TikTok or any other platform, please note that this only works if you upload using the PC-side uploader. 
+
 ---
 
 **Note:** *This script was created for educational purposes. I am not responsible for the use of this script.*
