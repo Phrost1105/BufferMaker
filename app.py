@@ -18,7 +18,7 @@ import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
 
 # === CONFIGURABLE UI TEXT ===
-APP_TITLE = "Video Tool Hub"
+APP_TITLE = "Video Buffer Generator"
 APP_DESCRIPTION = (
     "Select an operation below. All merging/concatenation is preceded by an \n"
     "automatic H.264 conversion to ensure fast, reliable output."
